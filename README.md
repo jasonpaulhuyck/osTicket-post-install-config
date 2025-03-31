@@ -25,7 +25,7 @@ Project outlines the post-install configuration of the open-source help desk tic
 
 <h2>Configuration Steps</h2>
 <p align="center">
-Open the Web Browser and and navigate to http://localhost/osTicket/scp/login.php using the username/password Adminuser/Password1:
+Open the Web Browser, navigate to http://localhost/osTicket/scp/login.php and login to osTicket using the username/password: Adminuser/Password1
   
 ![image](https://github.com/user-attachments/assets/69b7c61f-5a56-415c-a4ac-840a639560b0)
 
