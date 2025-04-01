@@ -17,7 +17,7 @@ In continuation of the [osTicket: Prerequisites and Installation](https://github
 
 - Windows 10</b> (21H2)
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2>Post-Installation Configuration Objectives</h2>
 
 - Configure Roles
 - Configure Departments
