@@ -42,7 +42,7 @@ Name the Role: "Supreme Admin", and under "Permissions", check all the Tickets a
 
 ![image](https://github.com/user-attachments/assets/97969b08-83f5-4e6d-ae0d-97a38c6f724c)
 <p align="center">
-In the same fassion, you can configure various Teams and Departments and give each various access.  Once Roles, Teams, and Departments are configured, you can add new Agents, assign them Access/Departments and Permissions and add them to a Team:
+In the same fashion, you can configure various Teams and Departments and give each various access.  Once Roles, Teams, and Departments are configured, you can add new Agents, assign them Access/Departments and Permissions and add them to a Team:
 
 ![image](https://github.com/user-attachments/assets/8dacfa14-1b15-4f0f-aa2a-77e095b38915)
 
